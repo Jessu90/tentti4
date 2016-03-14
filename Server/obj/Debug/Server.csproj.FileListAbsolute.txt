@@ -31,3 +31,17 @@ Y:\Makela_Petteri\AUTE14\Verkko-ohjelmointi\Ads\Ads3SocketExample4Measurements\S
 Y:\Makela_Petteri\TITE14\Verkko-ohjelmointi\Tentti\Tehtava4\Ads3SocketExample4Measurements\Server\bin\Debug\Server.exe.config
 Y:\Makela_Petteri\TITE14\Verkko-ohjelmointi\Tentti\Tehtava4\Ads3SocketExample4Measurements\Server\obj\Debug\Server.exe
 Y:\Makela_Petteri\TITE14\Verkko-ohjelmointi\Tentti\Tehtava4\Ads3SocketExample4Measurements\Server\obj\Debug\Server.pdb
+C:\tmp\tentti4\Server\bin\Debug\Server.exe.config
+C:\tmp\tentti4\Server\obj\Debug\Server.exe
+C:\tmp\tentti4\Server\obj\Debug\Server.pdb
+C:\tmp\tentti4\Server\bin\Debug\Server.exe
+C:\tmp\tentti4\Server\bin\Debug\Server.pdb
+C:\tmp\tentti4\Server\bin\Debug\ClientHelper.dll
+C:\tmp\tentti4\Server\bin\Debug\MeasurementLibrary.dll
+C:\tmp\tentti4\Server\bin\Debug\TwinCAT.Ads.dll
+C:\tmp\tentti4\Server\bin\Debug\Newtonsoft.Json.dll
+C:\tmp\tentti4\Server\bin\Debug\ClientHelper.pdb
+C:\tmp\tentti4\Server\bin\Debug\MeasurementLibrary.pdb
+C:\tmp\tentti4\Server\bin\Debug\TwinCAT.Ads.xml
+C:\tmp\tentti4\Server\bin\Debug\Newtonsoft.Json.xml
+C:\tmp\tentti4\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
